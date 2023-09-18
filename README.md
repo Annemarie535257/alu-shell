@@ -1,2 +1,1 @@
-# alu-shell
-week 3 projects
+Tasks 0. Where am I?
